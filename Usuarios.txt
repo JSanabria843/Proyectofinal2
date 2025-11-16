@@ -1,0 +1,8 @@
+usuarios:
+
+admin@ejemplo.com
+admin123
+
+
+user@example.com
+user123
